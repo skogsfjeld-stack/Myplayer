@@ -1,0 +1,17 @@
+{
+  "name": "MyPlayer",
+  "short_name": "MyPlayer",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#ff2d55",
+  "description": "MyPlayer - Din musikk, alltid tilgjengelig",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
